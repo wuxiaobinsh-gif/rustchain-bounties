@@ -1,0 +1,61 @@
+{
+  "judge_wallet": "RTC9a39ca2c84f61ca27d96463bcf65b6022b827f85",
+  "submitted_at": "2026-04-30T06:35:00Z",
+  "rankings": [
+    {
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2869#issuecomment-4319508213",
+      "rank": 1,
+      "score": 0.95,
+      "fraud_risk": "low",
+      "payout_recommendation": {
+        "amount_rtc": 10,
+        "rationale": "Complete Telegram bot with all required commands, Docker support, rate limiting, README."
+      },
+      "justification": "zhaog100: bot.py (8KB), requirements.txt, Dockerfile, README.md (5.9KB). Wallet: RTCb72a1accd46b9ba9f22dbd4b5c6aad5a5831572b."
+    },
+    {
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2864#issuecomment-4319508147",
+      "rank": 2,
+      "score": 0.92,
+      "fraud_risk": "low",
+      "payout_recommendation": {
+        "amount_rtc": 20,
+        "rationale": "GitHub Action: action.yml (3.8KB), README (4.5KB), test workflow, MIT license, auto-award on merge."
+      },
+      "justification": "zhaog100: rtc-reward-action repo v1.0.0, Node 20 JS action. Wallet: RTCb72a1accd46b9ba9f22dbd4b5c6aad5a5831572b."
+    },
+    {
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2864#issuecomment-4298506379",
+      "rank": 3,
+      "score": 0.78,
+      "fraud_risk": "medium",
+      "payout_recommendation": {
+        "amount_rtc": 15,
+        "rationale": "GitHub Action with label-based award table (1/5/10/20 RTC), PR merge trigger."
+      },
+      "justification": "FraktalDeFiDAO: .github/workflows/award-rtc.yml. No wallet provided - deducted points."
+    },
+    {
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2862#issuecomment-4321003456",
+      "rank": 4,
+      "score": 0.72,
+      "fraud_risk": "medium",
+      "payout_recommendation": {
+        "amount_rtc": 3,
+        "rationale": "4 PRs to awesome-depin, awesome-rust, awesome-retro-computing, awesome-mcp-servers."
+      },
+      "justification": "yw13931835525-cyber: 4 PRs with links. Wallet: 0x6FCBd5d14FB296933A4f5a515933B153bA24370E. Only 4 of 5 lists."
+    },
+    {
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2869#issuecomment-4322001457",
+      "rank": 5,
+      "score": 0.55,
+      "fraud_risk": "high",
+      "payout_recommendation": {
+        "amount_rtc": 2,
+        "rationale": "Claimant starred repos but submitted no Telegram bot code."
+      },
+      "justification": "kuanglaodi2-sudo: only social actions (star, follow). No bot. Wallet: C4c7r9WPsnEe6CUfegMU9M7ReHD1pWg8qeSfTBoRcLbg."
+    }
+  ]
+}
