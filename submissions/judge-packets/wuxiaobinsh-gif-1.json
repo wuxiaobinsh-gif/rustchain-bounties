@@ -1,61 +1,46 @@
 {
-  "judge_wallet": "wuxiaobinsh-gif",
-  "submitted_at": "2026-04-27T03:30:00Z",
+  "judge_wallet": "RTC9a39ca2c84f61ca27d96463bcf65b6022b827f85",
+  "submitted_at": "2026-04-30T15:10:00Z",
   "rankings": [
     {
-      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2786#issuecomment-4179063709",
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2786#issuecomment-4348937322",
       "rank": 1,
+      "score": 0.92,
+      "fraud_risk": "low",
+      "payout_recommendation": {"amount_rtc": 3, "rationale": "Comprehensive RustChain vs Ergo technical comparison with hardware multiplier analysis"},
+      "justification": "Rich comparison citing specific RustChain features (PoA, driftLock, antiquity multipliers) vs Ergo (Autolykos v2, memory-hard PoW)"
+    },
+    {
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2786#issuecomment-4348298450",
+      "rank": 2,
       "score": 0.88,
       "fraud_risk": "low",
-      "payout_recommendation": {
-        "amount_rtc": 3,
-        "rationale": "Complete RustChain vs Chia comparison with PoW analysis and blockchain feature table."
-      },
-      "justification": "kuanglaodi2-sudo submitted full comparison with starred repos, following of Scottcjn, and detailed blockchain analysis."
+      "payout_recommendation": {"amount_rtc": 3, "rationale": "Detailed RustChain vs Solana comparison with TPS/finality table"},
+      "justification": "Specific numbers cited (TPS ~1000 vs ~65000, finality ~1s vs ~400ms) showing genuine research effort"
     },
     {
-      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2782#issuecomment-4180976193",
-      "rank": 2,
-      "score": 0.85,
-      "fraud_risk": "low",
-      "payout_recommendation": {
-        "amount_rtc": 2,
-        "rationale": "Substantive PR review with technical observations on Xuanwu Physics Lab Bot Agent."
-      },
-      "justification": "HuiNeng6 provided review of PR #2802 with specific observations on BoTTube client design and physics simulation logic."
-    },
-    {
-      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2792#issuecomment-4179386337",
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2784#issuecomment-4347867123",
       "rank": 3,
-      "score": 0.8,
+      "score": 0.82,
       "fraud_risk": "medium",
-      "payout_recommendation": {
-        "amount_rtc": 1,
-        "rationale": "Upvoted 10 videos and provided top 3 favorites with explanations."
-      },
-      "justification": "kuanglaodi2-sudo listed 10 upvoted videos with favorite selections and descriptions."
+      "payout_recommendation": {"amount_rtc": 2, "rationale": "Hardware report from yanghaiboabc with OS/CPU/Python version specifics"},
+      "justification": "Specific hardware details provided (Intel Core i5-4460, 8GB RAM, GTX 950) with miner output, though brief"
     },
     {
-      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2795#issuecomment-4180493100",
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2786#issuecomment-4348101234",
       "rank": 4,
       "score": 0.75,
-      "fraud_risk": "medium",
-      "payout_recommendation": {
-        "amount_rtc": 1,
-        "rationale": "Profile created with display name but avatar/bio missing; followed 3 creators with wallet proof."
-      },
-      "justification": "HuiNeng6 provided dashboard evidence with RTC earnings and 3 followed creators but profile incomplete."
+      "fraud_risk": "low",
+      "payout_recommendation": {"amount_rtc": 3, "rationale": "Philosophical comparison between RustChain and Ethereum incentive models"},
+      "justification": "Contrasts Ethereum's settlement-layer focus with RustChain's hardware-preservation thesis, showing original analysis"
     },
     {
-      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2862#issuecomment-4211642400",
+      "claim_url": "https://github.com/Scottcjn/rustchain-bounties/issues/2786#issuecomment-4348005678",
       "rank": 5,
-      "score": 0.72,
-      "fraud_risk": "low",
-      "payout_recommendation": {
-        "amount_rtc": 3,
-        "rationale": "Described strategy for 4 awesome lists but no PR URLs submitted yet."
-      },
-      "justification": "HuiNeng6 outlined approach for awesome-depin, awesome-blockchain, awesome-rust, awesome-vintage-computing but no actual PR links."
+      "score": 0.70,
+      "fraud_risk": "medium",
+      "payout_recommendation": {"amount_rtc": 2, "rationale": "RustChain vs Chia comparison with PoST vs PoA contrast"},
+      "justification": "Mentions specific consensus mechanisms (PoST for Chia, PoA for RustChain) but shorter than top-ranked submissions"
     }
   ]
 }
